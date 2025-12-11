@@ -1,0 +1,21 @@
+# --- KLUCZE I HASŁA (NAJWAŻNIEJSZE!) ---
+config.json
+secrets.json
+.env
+
+# --- PAMIĘĆ BOTA ---
+virtual_account.json
+*.log
+
+# --- MODELE AI (Duże pliki) ---
+*.pkl
+*.joblib
+
+# --- ŚMIECI PYTHONOWE ---
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# --- ŚMIECI SYSTEMOWE ---
+.DS_Store

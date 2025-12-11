@@ -1,0 +1,7 @@
+alpaca-trade-api
+pandas
+pandas_ta
+numpy
+scikit-learn
+joblib
+requests
